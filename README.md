@@ -1,6 +1,6 @@
-### A link to my portfolio: https://fionalaygo.com/
+#### A link to my portfolio: https://fionalaygo.com/
 
-## 💄 Chérie AI: https://www.cherie-ai.com/
+#### 💄 Chérie AI: https://www.cherie-ai.com/
 
 
 ## 🌐 Socials:
