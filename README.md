@@ -1,7 +1,6 @@
-# 💫 About Me:
-🔭  Iʼm currently working on expanding my backend expertise with a focus on Node and Express JS to<br>master the MERN stack.<br>👯 Iʼm looking to collaborate on frontend projects utilizing React to create visually appealing and user-friendly interfaces.<br>🌱 Iʼm currently learning Node and Express JS to enhance my backend skills for full-stack contributions.<br>💬 Ask me about front-end web development using React, JavaScript, HTML/CSS, Bootstrap, and Tailwind<br>CSS. Also, insights into 2D Unity game development with C# and object-oriented programming, along with<br>my published mobile game on the Google Play Store.<br>⚡ Fun fact I played a key role in building a tsunami detection system using robotics and Arduino for a<br>project. Exploring real-world applications of technology is as fascinating to me as coding itself.
-
 ### A link to my portfolio: https://fionalaygo.com/
+
+## 💄 Chérie AI: https://www.cherie-ai.com/
 
 
 ## 🌐 Socials:
