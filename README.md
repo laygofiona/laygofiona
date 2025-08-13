@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Chérie AI, a platform that helps people find makeup products based on their skin type and skin tone. <br>👯 I’m looking to collaborate on projects that use RAG, Computer Vision, Web Scraping, or Agentic AI.<br>🌱 I’m currently learning Production Engineering and navigating Linux systems through the MLH Fellowship. <br>💬 Ask me about web scraping with Selenium/Playwright, Python scripting, or backend web development with Express, Node JS, and Supabase<br>⚡ Fun fact I love playing basketball and watching the NBA
+🔭 I’m currently working on Chérie AI, a platform that helps people find makeup products based on their skin type and skin tone. <br>👯 I’m looking to collaborate on projects that use RAG, Computer Vision, Web Scraping, or Agentic AI.<br>🌱 I’m currently learning Production Engineering and navigating Linux systems through the Meta x MLH Fellowship. <br>💬 Ask me about web scraping with Selenium/Playwright, Python scripting, or backend web development with Express, Node JS, and Supabase<br>⚡ Fun fact I love playing basketball and watching the NBA
 
 #### A link to my portfolio: https://fionalaygo.com/
 
